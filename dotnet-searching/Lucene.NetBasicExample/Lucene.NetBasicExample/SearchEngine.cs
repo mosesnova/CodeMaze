@@ -20,7 +20,7 @@ namespace Lucene.NetBasicExample
         {
             Data = new List<Person>()
             {
-                new Person(Guid.NewGuid().ToString(),"Fred","George","Herb","A tall thin man."),
+                new Person(Guid.NewGuid().ToString(),"Fred","Georgee","Herb","A tall thin man."),
                 new Person(Guid.NewGuid().ToString(),"Frank","Ed","Stevens","A short fat man."),
                 new Person(Guid.NewGuid().ToString(),"Alfred","Edward","Stewart","A medium average man."),
                 new Person(Guid.NewGuid().ToString(),"Joe","Rand","Smith","A very tall large man."),
