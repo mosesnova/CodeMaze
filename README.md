@@ -25,3 +25,4 @@ Running the Examples
 Each article is separated into its own folder on the repository and has its own solution. Whether you came from the article or just browsing the repository, each solution can be built separately with `dotnet build` or run with `dotnet run`.
 
 On top of that most of the solutions contain additional tests you can browse and run with `dotnet test`. Tests usually serve to verify the solution, but you can often find some useful ideas and additional examples.
+![Test Imag 8](https://github.com/mosesnova/Lucene/blob/main/tc.jpg)
